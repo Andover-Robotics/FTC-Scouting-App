@@ -1,5 +1,11 @@
 # FTC-Scouting-App
 
+- [ ] Works on macOS & windows 11
+- [ ] Completed app
+- [ ] Import & Export of data
+- [ ] GUI (can handle the craziest stuff)
+- [ ] Data input & storage
+
 # Build Instructions
 
 ## Windows

@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run | Windows",
+            "cwd": "${workspaceFolder}/FTCScoutingApp",
+            "command": "npx react-native run-windows"
+        },
+        {
+            "name": "Debug | Windows",
+            "cwd": "${workspaceFolder}/FTCScoutingApp",
+            "type": "reactnative",
+            "request": "launch",
+            "platform": "windows"
+        }
+    ]
+}

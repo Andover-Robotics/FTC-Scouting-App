@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="65b4556a-985a-4568-bb85-7cde15e68ab7"
+    Name="eca1449b-65b1-451f-a573-f2ac0efc3198"
     Publisher="CN=rishi"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="65b4556a-985a-4568-bb85-7cde15e68ab7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="eca1449b-65b1-451f-a573-f2ac0efc3198" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>FTCScoutingApp</DisplayName>

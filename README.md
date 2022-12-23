@@ -23,7 +23,7 @@ Go to https://microsoft.github.io/react-native-windows/docs/rnw-dependencies and
 
 Install npm/npx.
 Install yarn.
-Install Visual Studio Community **2019**. make sure to select UWP Development, Node.js Development and Desktop Development.
+Install Visual Studio Community **2019**. make sure to select UWP Development, Node.js Development and Desktop Development. Additionally, download Windows 10 SDK **10.18632.0**
 Install Chocolatey.
 Install Google Chrome.
 Install git.
@@ -36,6 +36,9 @@ Turn on Developer Mode in Windows Settings.
 Install Visual Studio Code. It is lightweight and already set up to work!
 
 ### Building and Running
+
+Run 
+```npm install```
 
 Simply run 
 ```npm react-native run-windows```
